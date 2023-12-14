@@ -1,2 +1,6 @@
-D:\Codo a codo - Fullsatack Java\Java\Proyectos\JavaPoo\src\main\java\com\codoacodo\JavaPoo\resources\JavaEE8Resource.java
-D:\Codo a codo - Fullsatack Java\Java\Proyectos\JavaPoo\src\main\java\com\codoacodo\JavaPoo\JAXRSConfiguration.java
+D:\Codo a codo - Fullsatack Java\Java\Proyectos\JavaPoo\src\main\java\controlador\RegistroOrador.java
+D:\Codo a codo - Fullsatack Java\Java\Proyectos\JavaPoo\src\main\java\controlador\GestionOradoresServlet.java
+D:\Codo a codo - Fullsatack Java\Java\Proyectos\JavaPoo\src\main\java\util\ConexionDB.java
+D:\Codo a codo - Fullsatack Java\Java\Proyectos\JavaPoo\src\main\java\controlador\LoginServlet.java
+D:\Codo a codo - Fullsatack Java\Java\Proyectos\JavaPoo\src\main\java\dao\OradoresDAO.java
+D:\Codo a codo - Fullsatack Java\Java\Proyectos\JavaPoo\src\main\java\modelo\Orador.java

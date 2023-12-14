@@ -1,2 +1,6 @@
-com\codoacodo\JavaPoo\resources\JavaEE8Resource.class
-com\codoacodo\JavaPoo\JAXRSConfiguration.class
+modelo\Orador.class
+util\ConexionDB.class
+controlador\GestionOradoresServlet.class
+controlador\RegistroOrador.class
+controlador\LoginServlet.class
+dao\OradoresDAO.class
